@@ -20,7 +20,7 @@ Roberta S. Oliveira, Instituto de Computação, Universidade Federal Fluminense,
  
 Augusto P. V. Beltrão , Instituto de Computação, Universidade Federal Fluminense, Niterói-RJ, Brazil, apizano@id.uff.br
  
-Paulo H. Lopes, Instituto de Computação, Universidade Federal Fluminense, Niterói-RJ, Brazil, paulohbl@id.uff.br 
+Paulo H. B. Lopes, Instituto de Computação, Universidade Federal Fluminense, Niterói-RJ, Brazil, paulohbl@id.uff.br 
  
 José Viterbo, Instituto de Computação, Universidade Federal Fluminense, Niterói-RJ, Brazil, viterbo@ic.uff.br 
  
