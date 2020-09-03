@@ -13,6 +13,7 @@ In this repository are the artifacts generated in the RISCOVID study. Including 
 If you have any criticisms, doubts or suggestions follow the contact of the authors:
 
 
+
 Matheus M. Cruz, Instituto de Computação, Universidade Federal Fluminense, Niterói-RJ, Brazil, mmcruz@id.uff.br
  
 Roberta S. Oliveira, Instituto de Computação, Universidade Federal Fluminense, Niterói-RJ, Brazil, robertasa@id.uff.br
