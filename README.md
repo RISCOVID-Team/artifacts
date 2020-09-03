@@ -13,16 +13,16 @@ In this repository are the artifacts generated in the RISCOVID study. Including 
 If you have any criticisms, doubts or suggestions follow the contact of the authors:
 
 
-1. Matheus M. Cruz, Instituto de Computação, Universidade Federal Fluminense, Niterói-RJ, Brazil, mmcruz@id.uff.br
+Matheus M. Cruz, Instituto de Computação, Universidade Federal Fluminense, Niterói-RJ, Brazil, mmcruz@id.uff.br
  
-2. Roberta S. Oliveira, Instituto de Computação, Universidade Federal Fluminense, Niterói-RJ, Brazil, robertasa@id.uff.br
+Roberta S. Oliveira, Instituto de Computação, Universidade Federal Fluminense, Niterói-RJ, Brazil, robertasa@id.uff.br
  
-3. Augusto P. V. Beltrão , Instituto de Computação, Universidade Federal Fluminense, Niterói-RJ, Brazil, apizano@id.uff.br
+Augusto P. V. Beltrão , Instituto de Computação, Universidade Federal Fluminense, Niterói-RJ, Brazil, apizano@id.uff.br
  
-4. Paulo H. Lopes, Instituto de Computação, Universidade Federal Fluminense, Niterói-RJ, Brazil, paulohbl@id.uff.br 
+Paulo H. Lopes, Instituto de Computação, Universidade Federal Fluminense, Niterói-RJ, Brazil, paulohbl@id.uff.br 
  
-5. José Viterbo, Instituto de Computação, Universidade Federal Fluminense, Niterói-RJ, Brazil, viterbo@ic.uff.br 
+José Viterbo, Instituto de Computação, Universidade Federal Fluminense, Niterói-RJ, Brazil, viterbo@ic.uff.br 
  
-6. Daniela G. Trevisan, Instituto de Computação, Universidade Federal Fluminense, Niterói-RJ, Brazil, daniela@ic.uff.br
+Daniela G. Trevisan, Instituto de Computação, Universidade Federal Fluminense, Niterói-RJ, Brazil, daniela@ic.uff.br
  
-7. Flavia Bernardini, Instituto de Computação, Universidade Federal Fluminense, Niterói-RJ, Brazil, fcbernardini@ic.uff.br
+Flavia Bernardini, Instituto de Computação, Universidade Federal Fluminense, Niterói-RJ, Brazil, fcbernardini@ic.uff.br
