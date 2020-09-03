@@ -1,4 +1,4 @@
-# Artifacts
+# RISCOVID Artifacts
 In this repository are the artifacts generated in the RISCOVID study. Including surveys, prototypes, demonstration videos, among others.
 
 1. RISCOVID Prototype: https://app.uizard.io/p/vFzhQ8EG9
